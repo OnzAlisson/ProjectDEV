@@ -3546,11 +3546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\DevProject\\ProjectDEV\\ProjectDEV.csproj",
+      "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\AFS\\ProjectDEV\\ProjectDEV\\ProjectDEV.csproj",
       "projectName": "ProjectDEV",
-      "projectPath": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\DevProject\\ProjectDEV\\ProjectDEV.csproj",
+      "projectPath": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\AFS\\ProjectDEV\\ProjectDEV\\ProjectDEV.csproj",
       "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\DevProject\\ProjectDEV\\obj\\",
+      "outputPath": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\AFS\\ProjectDEV\\ProjectDEV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

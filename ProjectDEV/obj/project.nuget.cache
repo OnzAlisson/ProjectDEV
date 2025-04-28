@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTLlBWJ1WTg=",
+  "dgSpecHash": "CzUzxSqJ0TI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\DevProject\\ProjectDEV\\ProjectDEV.csproj",
+  "projectFilePath": "C:\\Users\\aliss\\OneDrive\\Área de Trabalho\\Projects\\AFS\\ProjectDEV\\ProjectDEV\\ProjectDEV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliss\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aliss\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.3\\microsoft.aspnetcore.authentication.jwtbearer.9.0.3.nupkg.sha512",
